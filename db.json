@@ -4,7 +4,7 @@
         {
             "id": 1001,
             "name": "Guilherme",
-            "login": "guim",
+            "username": "guim",
             "password": "12345",
             "email": "email@email.com",
             "permissions": [
@@ -19,7 +19,7 @@
         {
             "id": 1002,
             "name": "Silva Sauro",
-            "login": "ssauro",
+            "username": "ssauro",
             "password": "12345",
             "email": "email1@email.com",
             "permissions": [
