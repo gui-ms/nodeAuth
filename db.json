@@ -1,0 +1,32 @@
+{
+    "users": 
+    [
+        {
+            "id": 1001,
+            "name": "Guilherme",
+            "login": "guim",
+            "password": "12345",
+            "email": "email@email.com",
+            "permissions": [
+                {
+                    "path": "contracts"
+                },
+                {
+                    "path": "invoices"
+                }]
+
+        },
+        {
+            "id": 1002,
+            "name": "Silva Sauro",
+            "login": "ssauro",
+            "password": "12345",
+            "email": "email1@email.com",
+            "permissions": [
+                {
+                    "path": "customers"
+                }
+            ]
+        }
+    ]
+}
